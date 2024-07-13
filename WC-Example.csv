@@ -1,0 +1,13 @@
+﻿ID;Type;SKU;Name;Published;In stock?;Regular price;Categories;Tags;Parent;Attribute 1 name;Attribute 1 value(s);Attribute 1 visible;Attribute 1 global
+4727;variable;;Advocaat;1;1;;Fine art print;;;Afmeting;40 x 55 cm - inclusief witte rand van 5 cm, 50 x 70 cm - inclusief witte rand van 5 cm, 70 x 100 cm - inclusief witte rand van 5 cm, A4, A5;1;1
+4728;variation;FAPWR4055-01;Advocaat - 40 x 55 cm - inclusief witte rand van 5 cm;1;1;99;Fine art print;Eieren, lichte achtergrond, glas, aardewerk, Petrus Regout;id:4727;Afmeting;40 x 55 cm - inclusief witte rand van 5 cm;1;
+4729;variation;FAPWR5070-01;Advocaat - 50 x 70 cm - inclusief witte rand van 5 cm;1;1;139;Fine art print;Eieren, lichte achtergrond, glas, aardewerk, Petrus Regout;id:4727;Afmeting;50 x 70 cm - inclusief witte rand van 5 cm;1;
+4730;variation;FAPWR70100-01;Advocaat - 70 x 100 cm - inclusief witte rand van 5 cm;1;1;275;Fine art print;Eieren, lichte achtergrond, glas, aardewerk, Petrus Regout;id:4727;Afmeting;70 x 100 cm - inclusief witte rand van 5 cm;1;
+4731;variation;FAPWRa4-01;Advocaat - A4;1;1;75;Fine art print;Eieren, lichte achtergrond, glas, aardewerk, Petrus Regout;id:4727;Afmeting;A4;1;
+4732;variation;FAPWRa5-01;Advocaat - A5;1;1;59;Fine art print;Eieren, lichte achtergrond, glas, aardewerk, Petrus Regout;id:4727;Afmeting;A5;1;
+4733;variable;;Annabelle;1;1;;Fine art print;;;Afmeting;40 x 55 cm - inclusief witte rand van 5 cm, 50 x 70 cm - inclusief witte rand van 5 cm, 70 x 100 cm - inclusief witte rand van 5 cm, A4, A5;1;1
+4734;variation;FAPWR4055-02;Annabelle - 40 x 55 cm - inclusief witte rand van 5 cm;1;1;99;Fine art print;Bloemen, donkere achtergrond, Franse sfeer, aardewerk;id:4737;Afmeting;40 x 55 cm - inclusief witte rand van 5 cm;1;
+4735;variation;FAPWR5070-02;Annabelle - 50 x 70 cm - inclusief witte rand van 5 cm;1;1;139;Fine art print;Bloemen, donkere achtergrond, Franse sfeer, aardewerk;id:4737;Afmeting;50 x 70 cm - inclusief witte rand van 5 cm;1;
+4736;variation;FAPWR70100-02;Annabelle - 70 x 100 cm - inclusief witte rand van 5 cm;1;1;275;Fine art print;Bloemen, donkere achtergrond, Franse sfeer, aardewerk;id:4737;Afmeting;70 x 100 cm - inclusief witte rand van 5 cm;1;
+4737;variation;FAPWRa4-02;Annabelle - A4;1;1;75;Fine art print;Bloemen, donkere achtergrond, Franse sfeer, aardewerk;id:4737;Afmeting;A4;1;
+4738;variation;FAPWRa5-02;Annabelle - A5;1;1;59;Fine art print;Bloemen, donkere achtergrond, Franse sfeer, aardewerk;id:4737;Afmeting;A5;1;
